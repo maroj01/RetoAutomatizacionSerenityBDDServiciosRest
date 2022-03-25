@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Realizar registro al sitio web de la biblioteca PH" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-03-25T20:24:28" hostname="SISAZADRI" time="6.571">
+  <properties/>
+  <testcase name="registro con datos correctos" classname="Realizar registro al sitio web de la biblioteca PH" time="5.944"/>
+  <testcase name="registro con datos incompletos" classname="Realizar registro al sitio web de la biblioteca PH" time="0.627"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

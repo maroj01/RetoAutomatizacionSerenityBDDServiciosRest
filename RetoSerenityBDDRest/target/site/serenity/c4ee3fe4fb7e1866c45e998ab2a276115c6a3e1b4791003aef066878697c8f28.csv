@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Realizar registro a la aplicación Reqres","registro con datos correctos","SUCCESS","2022-03-24T21:05:35.897-05:00[America/Bogota]","0.0","5.4"
+"Realizar registro a la aplicación Reqres","registro con datos incompletos","SUCCESS","2022-03-24T21:05:41.312-05:00[America/Bogota]","0.0","0.64"

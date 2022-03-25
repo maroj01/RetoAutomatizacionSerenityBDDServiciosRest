@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Realizar registro al sitio web de la biblioteca PH" skipped="0" tests="2" time="6.34" timestamp="2022-03-25 03:24:28"><testcase name="registro con datos correctos"/><testcase name="registro con datos incompletos"/></testsuite>
